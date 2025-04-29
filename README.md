@@ -19,7 +19,7 @@ Enviro is a comprehensive waste and recycling management solution designed to st
 - **Approve Areas**: Companies can request area approvals for their services, subject to admin approval.
 - **Track Recycling**: Companies can submit details and images of collected recycled waste for verification.
 - **Locate Centers**: Companies can identify recycling centers, subject to admin verification and approval.
-
+dfgsg
 ### Admin Features
 - **Verify Requests**: Admins can approve or reject area approval requests, recycling submissions, and reward conversions.
 - **Resolve Complaints**: Admins manage user complaints and can terminate agreements with non-compliant companies.
