@@ -29,7 +29,7 @@ const teamMembers = [
   },
   {
     name: "MUHAMMAD SADIQ",
-    role: "PERN STACK DEVELOPER",
+    role: "PERN STACK DEVELOPER jugnu",
     image: "/images/sadiq.jpg",
     description: "Sadiq is passionate about community engagement and education. He spearheads our initiatives to raise awareness about recycling and sustainable living practices in local communities."
   }
