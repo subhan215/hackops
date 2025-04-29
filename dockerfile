@@ -14,7 +14,8 @@ RUN npm install
 COPY . .
 
 # Expose the port Next.js runs on
-EXPOSE 3000
+EXPOSE 3000 
+
 
 # Set environment variables for New Relic
 ENV NODE_OPTIONS="--require newrelic"
