@@ -12,7 +12,7 @@ Enviro is a comprehensive waste and recycling management solution designed to st
 - **Earn and Redeem Coins**: Users earn coins for recycling waste and can redeem them to their wallet or bank account.
 - **Locate Recycling Centers**: Users can find nearby recycling centers and submit materials directly, earning coins upon verification.
 - **Chat with Companies**: Users can communicate with companies to resolve issues or ask questions.
-
+    
 ### Company Features
 - **Manage Pickups**: Companies can assign trucks for regular pickups, view missed pickups, and mark them as resolved.
 - **Approve Areas**: Companies can request area approvals for their services, subject to admin approval.
