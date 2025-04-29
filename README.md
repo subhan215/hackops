@@ -4,6 +4,7 @@ Enviro is a comprehensive waste and recycling management solution designed to st
 
 ## Features
 ##Bublu
+##juannid 
 
 ### User Features
 - **Report Missed Pickups**: Users can report missed pickups in their area, triggering notifications to the relevant company for action.
