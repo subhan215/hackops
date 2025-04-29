@@ -11,6 +11,7 @@ COPY package*.json ./
 RUN npm install
 
 # Copy all project files
+
 COPY . .
 
 # Expose the port Next.js runs on
