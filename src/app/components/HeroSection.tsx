@@ -31,7 +31,7 @@ export default function HeroSection() {
           transition={{ duration: 0.5, delay: 0.5 }}
           className="text-5xl sm:text-7xl lg:text-8xl"
         >
-          Welcome to Our
+          Welcome Bablu to Our 
         </motion.span>{" "}
         <motion.span
           className="text-[#00ED64] block"
