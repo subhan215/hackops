@@ -3,6 +3,7 @@
 Enviro is a comprehensive waste and recycling management solution designed to streamline the processes for users, companies, and administrators. This AI-powered platform ensures efficient waste pickup, recycling, and issue resolution, fostering a cleaner environment and promoting sustainable practices.
 
 ## Features
+##Bublu
 
 ### User Features
 - **Report Missed Pickups**: Users can report missed pickups in their area, triggering notifications to the relevant company for action.
