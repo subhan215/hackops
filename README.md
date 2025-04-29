@@ -22,7 +22,7 @@ Enviro is a comprehensive waste and recycling management solution designed to st
 - **Verify Requests**: Admins can approve or reject area approval requests, recycling submissions, and reward conversions.
 - **Resolve Complaints**: Admins manage user complaints and can terminate agreements with non-compliant companies.
 - **Monitor Activities**: Admins oversee missed pickups, area approvals, and recycling center verifications.
-
+sdfasdfdsf
 ## Tech Stack
 
 - **Full Stack Framework**: Next.js
